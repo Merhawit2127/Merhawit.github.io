@@ -5,7 +5,7 @@ permalink: /about/
 weight: 3
 ---
 
-# Heyho, Evgenii is here!
+# Hello, Merhawit is here!
 
 I love solving interesting problems using software. As a lifelong learner I
 constantly look for new challenges. While I prefer to deliver great,
